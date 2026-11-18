@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kp_primary">#7C4DFF</color>
+    <color name="kp_primary_dark">#4527A0</color>
+    <color name="kp_accent">#00E5FF</color>
+    <color name="kp_bg">#0E1116</color>
+</resources>

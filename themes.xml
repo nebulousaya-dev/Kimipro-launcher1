@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KimiPro" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/kp_primary</item>
+        <item name="colorPrimaryDark">@color/kp_primary_dark</item>
+        <item name="colorAccent">@color/kp_accent</item>
+        <item name="android:windowBackground">@color/kp_bg</item>
+    </style>
+</resources>
